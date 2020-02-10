@@ -1,0 +1,11 @@
+C:\Users\RYAN\source\repos\marindo_5x5_7segment\bin\Debug\marindo_5x5_7segment.exe.config
+C:\Users\RYAN\source\repos\marindo_5x5_7segment\bin\Debug\marindo_5x5_7segment.exe
+C:\Users\RYAN\source\repos\marindo_5x5_7segment\bin\Debug\marindo_5x5_7segment.pdb
+C:\Users\RYAN\source\repos\marindo_5x5_7segment\bin\Debug\marindo_5x5_7segment.xml
+C:\Users\RYAN\source\repos\marindo_5x5_7segment\obj\Debug\marindo_5x5_7segment.vbprojAssemblyReference.cache
+C:\Users\RYAN\source\repos\marindo_5x5_7segment\obj\Debug\marindo_5x5_7segment.Form1.resources
+C:\Users\RYAN\source\repos\marindo_5x5_7segment\obj\Debug\marindo_5x5_7segment.Resources.resources
+C:\Users\RYAN\source\repos\marindo_5x5_7segment\obj\Debug\marindo_5x5_7segment.vbproj.GenerateResource.cache
+C:\Users\RYAN\source\repos\marindo_5x5_7segment\obj\Debug\marindo_5x5_7segment.exe
+C:\Users\RYAN\source\repos\marindo_5x5_7segment\obj\Debug\marindo_5x5_7segment.xml
+C:\Users\RYAN\source\repos\marindo_5x5_7segment\obj\Debug\marindo_5x5_7segment.pdb
